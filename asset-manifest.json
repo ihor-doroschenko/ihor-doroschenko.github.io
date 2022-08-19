@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.bde84705.chunk.css",
+    "main.js": "./build/main.4745f7c6.js",
+    "runtime-main.js": "./build/bundle.bd50e58d.js",
+    "static/css/2.532f4249.chunk.css": "./static/css/2.532f4249.chunk.css",
+    "build/2.64f112dd.js": "./build/2.64f112dd.js",
+    "build/2.64f112dd.js.LICENSE.txt": "./build/2.64f112dd.js.LICENSE.txt",
+    "index.html": "./index.html",
+    "precache-manifest.b43526f5a503b8c9e6b9f70a28e22c0a.js": "./precache-manifest.b43526f5a503b8c9e6b9f70a28e22c0a.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.532f4249.chunk.css.map": "./static/css/2.532f4249.chunk.css.map",
+    "static/css/main.bde84705.chunk.css.map": "./static/css/main.bde84705.chunk.css.map",
+    "static/media/slick-theme.css": "./static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "build/bundle.bd50e58d.js",
+    "static/css/2.532f4249.chunk.css",
+    "build/2.64f112dd.js",
+    "static/css/main.bde84705.chunk.css",
+    "build/main.4745f7c6.js"
+  ]
+}
